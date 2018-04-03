@@ -1,0 +1,18 @@
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\faisa\OneDrive\Desktop\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\My Computer\personal data\practice\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb

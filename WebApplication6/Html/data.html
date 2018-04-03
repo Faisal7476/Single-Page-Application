@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html ng-app="myapp">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" />
+    <script src="https://maxcdn.boottrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"></script>
+    <script src="https://code.angularjs.org/1.4.8/angular.js"></script>
+    <script src="https://code.angularjs.org/1.4.8/angular-route.js"></script>
+    <script src="main.js"></script>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body  ng-controller="datactrl">
+    <div>
+        <table class="table table-bordered table-hover table-inverse" style="width:100%">
+            <tr>
+
+                <th scope="col">ID</th>
+                <th scope="col">TITLE</th>
+                <th scope="col">BODY</th>
+            </tr>
+            <tr ng-repeat="x in names">
+                <td>{{ x.id }}</td>
+                <td>{{ x.title }}</td>
+                <td>{{ x.body }}</td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>
